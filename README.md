@@ -4,6 +4,9 @@ We can use KaTex or Latex (https://github.com/KaTeX/KaTeX) to render mathamatica
 
 Inline math exmple - $\beta(n) = (n-1)!\quad\forall n\in\mathbb N$ - here
 
+(https://katex.org/docs/supported.html)
+(https://blog.standardnotes.com/what-are-latex-tex-and-katex)
+
 Centered math example
 
 $$
