@@ -4,10 +4,9 @@ We can use LaTex or Latex (https://github.com/KaTeX/KaTeX) to render math expres
 
 Inline math exmple - $\beta(n) = (n-1)!\quad\forall n\in\mathbb N$ - here
 
-Centered math example - 
+Centered math example
 
 $$
 \Delta(z) = \int_0^\infty t^{z-2}e^{-t}dt\,.
 $$
 
-- here
