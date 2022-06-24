@@ -1,4 +1,4 @@
-$ \Beta(n) = (n-1)!\quad\forall n\in\mathbb N$
+$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 
 
 Euler Integral
